@@ -1,0 +1,74 @@
+[
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZHxlbnwwfHwwfHx8Mg%3D%3D",
+        "recipe_id": "12345",
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A quick and flavorful chicken stir fry with vegetables.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+        "preparing_time": "30 ",
+        "calories": "320 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "54321",
+        "recipe_name": "Pasta Carbonara",
+        "short_description": "Classic pasta carbonara with creamy sauce and crispy bacon.",
+        "ingredients": ["400 g spaghetti", "200 g bacon", "4 eggs", "100 g Parmesan cheese"],
+        "preparing_time": "25 ",
+        "calories": "450 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "98765",
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A fragrant and spicy vegetable curry loaded with nutrients.",
+        "ingredients": ["300 g mixed vegetables", "400 ml coconut milk", "100 g curry paste", "200 g rice"],
+        "preparing_time": "40 ",
+        "calories": "280 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "24680",
+        "recipe_name": "Salmon Teriyaki",
+        "short_description": "Deliciously glazed salmon fillets cooked in a sweet and savory teriyaki sauce.",
+        "ingredients": ["4 salmon fillets", "120 ml teriyaki sauce", "50 g brown sugar", "100 g green onions"],
+        "preparing_time": "35 ",
+        "calories": "380 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "13579",
+        "recipe_name": "Caprese Salad",
+        "short_description": "A fresh and simple salad with ripe tomatoes, mozzarella, and basil.",
+        "ingredients": ["4 ripe tomatoes", "200 g mozzarella cheese", "100 g fresh basil leaves", "50 ml balsamic glaze"],
+        "preparing_time": "15 ",
+        "calories": "250 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "11223",
+        "recipe_name": "Beef Stroganoff",
+        "short_description": "A hearty and creamy beef stroganoff served over egg noodles.",
+        "ingredients": ["500 g beef sirloin", "200 ml sour cream", "300 g mushrooms", "400 g egg noodles"],
+        "preparing_time": "50 ",
+        "calories": "480 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1496412705862-e0088f16f791?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "77889",
+        "recipe_name": "Lemon Chicken",
+        "short_description": "Tender chicken breasts marinated in lemon and herbs, then grilled to perfection.",
+        "ingredients": ["4 chicken breasts", "2 lemons", "50 g olive oil", "100 g fresh parsley"],
+        "preparing_time": "40 ",
+        "calories": "300 "
+    },
+    {
+        "recipe_image": "https://images.unsplash.com/photo-1539136788836-5699e78bfc75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGZvb2R8ZW58MHx8MHx8fDI%3D",
+        "recipe_id": "99011",
+        "recipe_name": "Vegetable Lasagna",
+        "short_description": "Layers of lasagna noodles, marinara sauce, and a variety of roasted vegetables.",
+        "ingredients": ["300 g lasagna noodles", "500 g marinara sauce", "200 g ricotta cheese", "300 g mixed vegetables"],
+        "preparing_time": "60 ",
+        "calories": "380 "
+    }
+]
