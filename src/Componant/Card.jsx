@@ -25,11 +25,11 @@ const Card = ({ product,cookButton}) => {
             <div className='flex gap-6 mb-7'>
                 <div className='flex items-center gap-1 '>
                     <IoMdTime />
-                    <h2 className='fira text-[#282828CC]'>{preparing_time}</h2>
+                    <h2 className='fira text-[#282828CC]'>{preparing_time} Minutes</h2>
                 </div>
                 <div className='flex gap-1 items-center'>
                     <FaGripfire />
-                    <h2 className='fira text-[#282828CC]'>{calories}</h2>
+                    <h2 className='fira text-[#282828CC]'>{calories} Calories</h2>
                 </div>
             </div>
             <button onClick={()=> {cookButton(product)}} className='btn lexend text-lg font-medium bg-[#0BE58A] hover:bg-[#3ec58de8] text-[#150B2B] rounded-[50px]'>Want to Cook</button>

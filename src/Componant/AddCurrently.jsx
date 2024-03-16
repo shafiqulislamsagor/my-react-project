@@ -18,8 +18,8 @@ const AddCurrently = ({preparing}) => {
             }
             <div className='grid grid-cols-12 mb-5 mt-8 fira font-medium text-base text-[#878787]'>
                 <h2 className='col-span-3'></h2>
-                <h2 className='col-span-4 text-center '>Total Time = {totalTime}</h2>
-                <h2 className='col-span-5 text-center '>Total Calories = {totalCalories}</h2>
+                <h2 className='col-span-4 text-center '>Total Time = {totalTime} Minutes</h2>
+                <h2 className='col-span-5 text-center '>Total Calories = {totalCalories} Calories</h2>
             </div>
         </div>
     );
